@@ -1,0 +1,26 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About me",
+      "description": "In your website you add a description here.",
+      "author": [],
+      "contents": "\nMy name is I’m Nathan, and I’m a conservation scientist and practitioner. If you want to get in touch feel free to do so through: https://nathanwhitmore.github.io/reproducible/contact.html\n\n\n\n",
+      "last_modified": "2024-05-01T01:03:31+00:00"
+    },
+    {
+      "path": "index.html",
+      "title": "wildRtools",
+      "description": "A hub for shiny dashboards focused on wildlife and environmental monitoring\n",
+      "author": [
+        {
+          "name": {},
+          "url": "https://nathanwhitmore.github.io/wildRtools/"
+        }
+      ],
+      "contents": "\n\nContents\nSynopsis\nSpatial visualisation & transformation\nPopulation dynamics\nEnvironmental eDNA\nTICI dashboard\nAcknowledgments\nCode\n\n\nSynopsis\nThis website contains a links to interactive shiny dashboards. All these dashboards have been licensed under an MIT license. You are free to access, reproduce, and edit the code as you please under the terms of the license.\nSpatial visualisation & transformation\nPopulation dynamics\nEnvironmental eDNA\nTICI dashboard\nThe TICI (Taxon-Independent Community Index) dashboard ….\n\n\n\nAcknowledgments\nThis website would not be possible with out the funding support from Otago Regional Council, and tools made by Posit especially the distill package.\nCode\nThe final code used to render this page is available at https://github.com/NathanWhitmore/wildRtools\n\n\n\n",
+      "last_modified": "2024-05-01T03:23:22+00:00"
+    }
+  ],
+  "collections": []
+}
