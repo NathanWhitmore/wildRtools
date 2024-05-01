@@ -18,8 +18,8 @@
           "url": "https://nathanwhitmore.github.io/wildRtools/"
         }
       ],
-      "contents": "\n\nContents\nSynopsis\nSpatial visualisation & transformation\nGPX to CSV\n\nPopulation dynamics\nEnvironmental eDNA\nTICI dashboard\neDNA sample checker\nAcknowledgments\nCode\n\n\nSynopsis\nThis website contains a links to interactive shiny dashboards. All these dashboards have been licensed under an MIT license. You are free to access, reproduce, and edit the code as you please under the terms of the license.\nSpatial visualisation & transformation\nGPX to CSV\n\nPopulation dynamics\nEnvironmental eDNA\nTICI dashboard\nThe TICI (Taxon-Independent Community Index) dashboard ….\n\neDNA sample checker\n[]\n(https://reproducible.shinyapps.io/eDNA_sample_checker/)\n\nAcknowledgments\nThis website would not be possible with out the funding support from Otago Regional Council, and tools made by Posit especially the distill package.\nCode\nThe final code used to render this page is available at https://github.com/NathanWhitmore/wildRtools\n\n\n\n",
-      "last_modified": "2024-05-01T04:16:51+00:00"
+      "contents": "\n\nContents\nSynopsis\nPopulation dynamics\nPopulation projection matrices\n\neDNA visualisation and analysis\nTICI dashboard\neDNA sample checker\n\nSpatial visualisation & transformation\nGPX to CSV\nAcknowledgments\nCode\n\n\nSynopsis\nThis website contains a links to interactive shiny dashboards. All these dashboards have been licensed under an MIT license. You are free to access, reproduce, and edit the code under the terms of the license.\nPopulation dynamics\nPopulation projection matrices\n\neDNA visualisation and analysis\nTICI dashboard\n\neDNA sample checker\n\nSpatial visualisation & transformation\nGPX to CSV\n\nAcknowledgments\nThis website would not be possible with out the funding support from Otago Regional Council, and tools made by Posit especially the distill package.\nCode\nThe final code used to render this page is available at https://github.com/NathanWhitmore/wildRtools\n\n\n\n",
+      "last_modified": "2024-05-01T05:26:49+00:00"
     }
   ],
   "collections": []
