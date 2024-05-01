@@ -26,6 +26,10 @@ This website contains a links to interactive shiny dashboards. All these dashboa
 
 # Spatial visualisation & transformation
 
+
+### GPX to CSV 
+[![TICI](screenshots/TICI.PNG)](https://reproducible.shinyapps.io/gpx_to_csv/)
+
 # Population dynamics 
 
 # Environmental eDNA
@@ -33,10 +37,10 @@ This website contains a links to interactive shiny dashboards. All these dashboa
 ### TICI dashboard 
 The TICI (Taxon-Independent Community Index) dashboard ....
 
-<div style="width:300px; height:200px">
 [![TICI](screenshots/TICI.PNG)](https://reproducible.shinyapps.io/ORC_TICI_dashboard_API_2024013/)
-</div>
 
+### eDNA sample checker
+[![TICI](screenshots/TICI.PNG)](https://reproducible.shinyapps.io/eDNA_sample_checker/)
 
 ## Acknowledgments {.appendix}
 

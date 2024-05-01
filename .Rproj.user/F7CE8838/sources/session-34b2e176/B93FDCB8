@@ -1,9 +1,9 @@
 {
     "id": "B93FDCB8",
-    "path": "/cloud/project/wildRtools.Rmd",
-    "project_path": "wildRtools.Rmd",
+    "path": "/cloud/project/index.Rmd",
+    "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "3966365353",
     "contents": "",
     "dirty": false,
     "created": 1714525420181.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "31,0",
-        "scrollLine": "25"
+        "cursorPosition": "30,78",
+        "scrollLine": "29"
     },
     "folds": "",
-    "lastKnownWriteTime": 1714530790,
+    "lastKnownWriteTime": 1714534855,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1714530790521,
+    "last_content_update": 1714534855104,
     "read_only": false,
     "read_only_alternatives": []
 }
