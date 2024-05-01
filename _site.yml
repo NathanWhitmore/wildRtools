@@ -1,0 +1,14 @@
+name: "."
+title: "Reproducible"
+description: |
+  Instructions to make a distill website in program R
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - icon: fab fa-github
+      href: https://github.com/NathanWhitmore/Distill_example
+output: distill::distill_article

@@ -1,0 +1,41 @@
+---
+title: "Making a distill website"
+author:
+- first_name: Nathan
+  last_name: Whitmore
+  url: https://nathanwhitmore.github.io/reproducible/
+  affiliation: Reproducible
+  affiliation_url: https://nathanwhitmore.github.io/reproducible/
+  orcid_id: 0000-0002-7811-5102
+creative_commons: CC BY  
+description: |
+  How to make a distill website with RStudio and GitHub pages
+output:
+  distill::distill_article:
+    toc: yes
+    toc_depth: 2
+site: distill::distill_website
+---
+
+
+# Synopsis
+Anyone can create a great technical website (that looks like this one) using program [R](https://www.r-project.org/), [RStudio](https://www.rstudio.com/products/rstudio/download/), the [distill](https://rstudio.github.io/distill/) package, and [GitHub](https://github.com) pages. Furthermore, by using GitHub as our code repository we can ensure that our code is safe and reproducible. Thanks to GitHub, we can roll back changes if we ever damage our code. All of these tools: GitHub, RStudio, R and the distill package are free.
+
+In the sections below I show how you can create a distill website with nothing more than a basic working knowledge of GitHub, RStudio, and R Markdown formatting. There are various alternate ways of creating a distill website but this is the version that works well for me. Indeed, this website was created from the code and the steps given below.
+
+<br>
+
+# Getting started
+In order to get started you will need to be registered on GitHub and have RStudio and R installed on our computer. The distill package will also need to be installed (see <https://rstudio.github.io/distill/website.html>). For the purposes of this example I will assume you have some working knowledge of R and RStudio. The main code for the layout of the website will be written in R Markdown. If you are unfamiliar with R Markdown a good introduction can be found here <https://rmarkdown.rstudio.com/>.)
+
+<br>
+
+
+## Acknowledgments {.appendix}
+
+This website would not be possible with out the tools made by RStudio especially the distill package.
+
+## Code {.appendix}
+The final code used to render this page is available at <https://github.com/NathanWhitmore/Distill_example>
+
+
