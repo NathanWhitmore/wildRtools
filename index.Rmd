@@ -20,12 +20,12 @@ This website contains a links to interactive shiny dashboards. All these dashboa
 
 # Population dynamics 
 ### Population projection matrices
-[![](screenshots/matrix.png){width=80%}](https://reproducible.shinyapps.io/gpx_to_csv/)
+[![](screenshots/matrix.png){width=80%}](https://reproducible.shinyapps.io/Population_projection_matrix_dashboard4/)
 
 
 # eDNA visualisation and analysis
 ### TICI dashboard 
-[![](screenshots/TICI.png){width=80%}](https://reproducible.shinyapps.io/ORC_TICI_dashboard_API_2024013/)
+[![](screenshots/TICI.png){width=80%}](https://reproducible.shinyapps.io/Population_projection_matrix_dashboard4/)
 
 
 ### eDNA sample checker

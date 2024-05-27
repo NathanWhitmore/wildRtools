@@ -14,7 +14,7 @@
       "description": "A hub for shiny dashboards focused on wildlife and environmental monitoring \n",
       "author": [],
       "contents": "\n\nContents\nExplanation\nPopulation dynamics\nPopulation projection matrices\n\neDNA visualisation and analysis\nTICI dashboard\neDNA sample checker\n\nSpatial visualisation & transformation\nGPX to CSV\nAcknowledgments\nCode\n\n\nExplanation\nThis website contains a links to interactive shiny dashboards. All these dashboards have been licensed under an MIT license. You are free to access, reproduce, and edit the code under the terms of the license.\nPopulation dynamics\nPopulation projection matrices\n\neDNA visualisation and analysis\nTICI dashboard\n\neDNA sample checker\n\nSpatial visualisation & transformation\nGPX to CSV\n\nAcknowledgments\nThis website would not be possible with out the funding support from Otago Regional Council, and tools made by Posit especially the distill package.\nCode\nThe final code used to render this page is available at https://github.com/NathanWhitmore/wildRtools\n\n\n\n",
-      "last_modified": "2024-05-27T03:10:28+00:00"
+      "last_modified": "2024-05-27T04:20:30+00:00"
     }
   ],
   "collections": []
