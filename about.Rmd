@@ -1,6 +1,6 @@
 ---
 title: "About me"
 description: |
-  My name is I'm Nathan Whitmore, and I’m a conservation scientist and practitioner. If you want to get in touch feel free to do so [here](https://nathanwhitmore.github.io/reproducible/contact.html). 
+  All of these dashboards were created by me, Nathan Whitmore, a conservation scientist and practitioner. If you want to get in touch feel free to do so [here](https://nathanwhitmore.github.io/reproducible/contact.html). 
   
 ---
