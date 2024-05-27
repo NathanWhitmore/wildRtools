@@ -1,11 +1,6 @@
 ---
 title: "About me"
 description: |
-  In your website you add a description here.
+  My name is I'm Nathan Whitmore, and I’m a conservation scientist and practitioner. If you want to get in touch feel free to do so [here](https://nathanwhitmore.github.io/reproducible/contact.html). 
+  
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
-My name is I'm Nathan, and I’m a conservation scientist and practitioner. If you want to get in touch feel free to do so through: <https://nathanwhitmore.github.io/reproducible/contact.html>

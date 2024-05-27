@@ -3,23 +3,23 @@
     {
       "path": "about.html",
       "title": "About me",
-      "description": "In your website you add a description here.",
+      "description": "My name is I'm Nathan Whitmore, and I’m a conservation scientist and practitioner. If you want to get in touch feel free to do so [here](https://nathanwhitmore.github.io/reproducible/contact.html). \n",
       "author": [],
-      "contents": "\nMy name is I’m Nathan, and I’m a conservation scientist and practitioner. If you want to get in touch feel free to do so through: https://nathanwhitmore.github.io/reproducible/contact.html\n\n\n\n",
-      "last_modified": "2024-05-01T01:03:31+00:00"
+      "contents": "\n\n\n\n",
+      "last_modified": "2024-05-27T03:05:59+00:00"
     },
     {
       "path": "index.html",
       "title": "wildRtools",
-      "description": "A hub for shiny dashboards focused on wildlife and environmental monitoring\n",
+      "description": "A hub for shiny dashboards focused on wildlife and environmental monitoring \n",
       "author": [
         {
           "name": {},
           "url": "https://nathanwhitmore.github.io/wildRtools/"
         }
       ],
-      "contents": "\n\nContents\nSynopsis\nPopulation dynamics\nPopulation projection matrices\n\neDNA visualisation and analysis\nTICI dashboard\neDNA sample checker\n\nSpatial visualisation & transformation\nGPX to CSV\nAcknowledgments\nCode\n\n\nSynopsis\nThis website contains a links to interactive shiny dashboards. All these dashboards have been licensed under an MIT license. You are free to access, reproduce, and edit the code under the terms of the license.\nPopulation dynamics\nPopulation projection matrices\n\neDNA visualisation and analysis\nTICI dashboard\n\neDNA sample checker\n\nSpatial visualisation & transformation\nGPX to CSV\n\nAcknowledgments\nThis website would not be possible with out the funding support from Otago Regional Council, and tools made by Posit especially the distill package.\nCode\nThe final code used to render this page is available at https://github.com/NathanWhitmore/wildRtools\n\n\n\n",
-      "last_modified": "2024-05-01T05:26:49+00:00"
+      "contents": "\n\nContents\nExplanation\nPopulation dynamics\nPopulation projection matrices\n\neDNA visualisation and analysis\nTICI dashboard\neDNA sample checker\n\nSpatial visualisation & transformation\nGPX to CSV\nAcknowledgments\nCode\n\n\nExplanation\nThis website contains a links to interactive shiny dashboards. All these dashboards have been licensed under an MIT license. You are free to access, reproduce, and edit the code under the terms of the license.\nPopulation dynamics\nPopulation projection matrices\n\neDNA visualisation and analysis\nTICI dashboard\n\neDNA sample checker\n\nSpatial visualisation & transformation\nGPX to CSV\n\nAcknowledgments\nThis website would not be possible with out the funding support from Otago Regional Council, and tools made by Posit especially the distill package.\nCode\nThe final code used to render this page is available at https://github.com/NathanWhitmore/wildRtools\n\n\n\n",
+      "last_modified": "2024-05-27T03:06:21+00:00"
     }
   ],
   "collections": []
