@@ -1,11 +1,5 @@
 ---
 title: "wildRtools"
-author:
-- first_name: Nathan
-  last_name: Whitmore
-  url: https://nathanwhitmore.github.io/wildRtools/
-  affiliation: Reproducible
-  affiliation_url: https://reproducible.co.nz/
 creative_commons: CC BY  
 description: |
   A hub for shiny dashboards focused on wildlife and environmental monitoring 

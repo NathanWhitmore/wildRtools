@@ -10,5 +10,5 @@ navbar:
     - text: "About"
       href: about.html
     - icon: fab fa-github
-      href: https://github.com/NathanWhitmore/Distill_example
+      href: https://github.com/NathanWhitmore/wildRtools
 output: distill::distill_article
