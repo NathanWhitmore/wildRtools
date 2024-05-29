@@ -2,7 +2,7 @@
 title: "wildRtools"
 creative_commons: CC BY  
 description: |
-  A hub for shiny dashboards focused on wildlife and environmental monitoring 
+  A hub for shiny dashboards focused on wildlife and environmental monitoring <br/>(currently under construction)
 output:
   distill::distill_article:
     toc: yes
