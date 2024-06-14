@@ -15,11 +15,11 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-This website contains a links to interactive shiny dashboards. All these dashboards have been licensed under an MIT license. You are free to access, reproduce, and edit the code under the terms of the license.
+This website contains a links to interactive shiny dashboards. All these dashboards have been licensed under an MIT license. You are free to access, reproduce, and edit the code under the terms of the license. Each subtitle links to the relevant GitHub repository.
 
 
 # Population dynamics 
-### Population projection matrices
+### [Population projection matrices](https://github.com/NathanWhitmore/population_projection_matrices)
 [![](screenshots/matrix.png){width=80%}](https://reproducible.shinyapps.io/Population_projection_matrix_dashboard/)
 
  * Assess growth rates of species based on survival & fecundity
@@ -40,15 +40,17 @@ This website contains a links to interactive shiny dashboards. All these dashboa
 ### eDNA sample checker
 [![](screenshots/samplechecker.png){width=80%}]()
 
+ * [eDNA tools are currently disabled but should be up shortly]
+
 <br/>
 <br/>
 
 # Forestry
-### Intergenerational share valuation
+### [Intergenerational share valuation](https://github.com/NathanWhitmore/Treeherder_share_valuation)
 [![](screenshots/Treeherder_share_valuation.png){width=80%}](https://reproducible.shinyapps.io/treeherder_share_valuation/)
 
  * Demonstrates how share valuation can be equalised across time
- * Useful for intergenerational equity
+ 
 
 <br/>
 <br/>
