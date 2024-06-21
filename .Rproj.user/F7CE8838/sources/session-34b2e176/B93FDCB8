@@ -3,7 +3,7 @@
     "path": "/cloud/project/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "4277301826",
+    "hash": "3091873570",
     "contents": "",
     "dirty": false,
     "created": 1714525420181.0,
@@ -12,16 +12,17 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "17,263",
-        "scrollLine": "12",
-        "docOutlineVisible": "1"
+        "cursorPosition": "34,16",
+        "scrollLine": "24",
+        "docOutlineVisible": "1",
+        "docOutlineSize": "85"
     },
     "folds": "",
-    "lastKnownWriteTime": 1718340230,
+    "lastKnownWriteTime": 1718941301,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1718340230144,
+    "last_content_update": 1718941301152,
     "read_only": false,
     "read_only_alternatives": []
 }

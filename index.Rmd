@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-This website contains a links to interactive shiny dashboards. All these dashboards have been licensed under an MIT license. You are free to access, reproduce, and edit the code under the terms of the license. Each subtitle links to the relevant GitHub repository.
+This website contains a links to interactive shiny dashboards. All these dashboards have been licensed under an MIT license. You are free to access, reproduce, and edit the code under the terms of the license. **Click on the thumbnail to activate the dashboard**. Each subheading links to the relevant GitHub repository.
 
 
 # Population dynamics 
@@ -32,7 +32,7 @@ This website contains a links to interactive shiny dashboards. All these dashboa
 <br/>
 <br/>
 
-# eDNA 
+# eDNA *(pending)*
 ### TICI dashboard 
 [![](screenshots/TICI.png){width=80%}]()
 
@@ -57,7 +57,7 @@ This website contains a links to interactive shiny dashboards. All these dashboa
 
 # Spatial
 ### [Spatial translator](https://github.com/NathanWhitmore/spatial_translator) 
-[![](screenshots/spatial_translator.png){width=80%}]()
+[![](screenshots/spatial_translator.png){width=80%}](https://reproducible.shinyapps.io/spatial_translator/)
 
  * Change between spatial formats (csv, kml, gpx, and shp)
  * Switch coordinate reference system
@@ -67,7 +67,7 @@ This website contains a links to interactive shiny dashboards. All these dashboa
 
 # Temporal
 ### [Gnomonic time setting](https://github.com/NathanWhitmore/sundial/)
-[![](screenshots/sundial.png){width=80%}]()
+[![](screenshots/sundial.png){width=80%}](https://reproducible.shinyapps.io/sundial/)
 
  * Set start and finish times based on location & sun position.
  * Works for low and medium latitudes 
