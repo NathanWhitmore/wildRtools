@@ -32,15 +32,17 @@ This website contains a links to interactive shiny dashboards. All these dashboa
 <br/>
 <br/>
 
-# eDNA *(pending)*
+# eDNA 
 ### TICI dashboard 
 [![](screenshots/TICI.png){width=80%}]()
 
+ * [currently disabled but should be up shortly]
 
-### eDNA sample checker
-[![](screenshots/samplechecker.png){width=80%}]()
 
- * [eDNA tools are currently disabled but should be up shortly]
+### [eDNA sample checker](https://github.com/NathanWhitmore/eDNA_sample_checker)
+[![](screenshots/samplechecker.png){width=80%}](https://reproducible.shinyapps.io/eDNA_sample_checker)
+
+ * Automated detection of common errors (e.g. incorrect coordinates, missing dates, duplicated id numbers)
 
 <br/>
 <br/>
